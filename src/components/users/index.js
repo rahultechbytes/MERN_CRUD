@@ -1,5 +1,6 @@
 import React from 'react';
-import UsersList from './userList';
+
+import UsersList from './UserList';
 import {USERS} from '../../constants/constants';
 
 const Users = () => {
